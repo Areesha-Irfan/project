@@ -45,7 +45,7 @@ export default function Navbar(){
         comfort
       </h1>
       <p className="mb-8 leading-relaxed">
-      "Style, Comfort, and Quality – All in One Place."
+      Style, Comfort, and Quality – All in One Place.
 
       </p>
       <div className="flex justify-center">
