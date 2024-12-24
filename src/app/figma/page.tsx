@@ -1,10 +1,13 @@
 
 import Image from "next/image";
 import sofa from "../../../image/sofa.jpeg";
-import table from "../../../image/sidetable.jpg";
+
 export default function Navbar(){
     return(
   <div>
+      
+    {/* eslint-disable-next-line
+     react/no-unescaped-entities*/}
     <header className="text-black-400  body-font">
     <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <nav className="flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto">
